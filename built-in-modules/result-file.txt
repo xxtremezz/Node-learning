@@ -1,0 +1,4 @@
+This is the resulting file with contents from two files read before.
+ Hello this is first text file 
+ Hello this is Second text file
+***APPENDED CONTENT***
